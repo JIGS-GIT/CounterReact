@@ -4,8 +4,7 @@ This project demonstrates a simple React counter component using two different s
 
 Preview
 
-
-
+![Project Screenshot](./Counterimg.png)
 
 Features
 
